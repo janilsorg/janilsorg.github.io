@@ -10263,3 +10263,7 @@ form .row:first-child .floating-label-form-group {
 .meu-container{
   background-color: #1a252f;
 }
+
+.esquerda{
+  text-align: left;
+}
